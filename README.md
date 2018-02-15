@@ -1,2 +1,2 @@
-# Simple Heap Manager (B-Trees implmentation for the free list).
-It's still not working perfectly in case of multithreading (Test4)
+# Simple Heap Manager (B-Trees implementation for the free list).
+Still not working as desired in case of multithreading (Test4)
